@@ -31,7 +31,6 @@ bool isPalindrome(int64_t n)
 	return true;
 }
 
-
 int main()
 {
 	
